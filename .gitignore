@@ -1,0 +1,8 @@
+run.sh
+__pycache__/
+distill_data/
+org_data/
+stage1_result/
+stage2_result/
+tsp_model/
+logs/
